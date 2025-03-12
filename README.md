@@ -18,7 +18,7 @@ The "Kareli Amul Parlour" online product availability application is designed to
 - **WhatsApp API**: Integration for customer communication via WhatsApp.
 
 ---
-
+ 
 #### 3. AWS Services Used
 
 1. **Amazon S3 Bucket**:  
